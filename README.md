@@ -1,5 +1,5 @@
 # Pokémon Crystal Research Toolkit 0.3.6
-[YouTube video showcase here]([https://stackedit.io/app#](https://youtu.be/HL9EYusqOms))
+[YouTube video showcase here](https://youtu.be/HL9EYusqOms)
 - Real-time map.
 - Real-time trainer card with key data.
 - Small overlay showing the player's team.
