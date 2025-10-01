@@ -1,0 +1,7 @@
+00;Thursday
+01;Friday
+02;Saturday
+03;Sunday
+04;Monday
+05;Tuesday
+06;Wednesday

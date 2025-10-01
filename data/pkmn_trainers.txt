@@ -1,0 +1,67 @@
+01;Leader [Falkner]
+02;Leader [Whitney]
+03;Leader [Bugsy]
+04;Leader [Morty]
+05;Leader [Pryce]
+06;Leader [Jasmine]
+07;Leader [Chuck]
+08;Leader [Clair]
+09;Silver [1]
+0A;Pokemon Prof.
+0B;Elite Four [Will]
+0C;PKMN Trainer [Cal]
+0D;Elite Four [Bruno]
+0E;Elite Four [Karen]
+0F;Elite Four [Koga]
+10;Champion
+11;Leader [Brock]
+12;Leader [Misty]
+13;Leader [Lt.Surge]
+14;Scientist
+15;Leader [Erika]
+16;Youngster
+17;Schoolboy
+18;Bird Keeper
+19;Lass
+1A;Leader [Janine]
+1B;CooltrainerM
+1C;CooltrainerF
+1D;Beauty
+1E;Pokemaniac
+1F;Rocket [Male Grunt]
+20;Gentleman
+21;Skier
+22;Teacher
+23;Leader [Sabrina]
+24;Bug Catcher
+25;Fisher
+26;SwimmerM
+27;SwimmerF
+28;Sailor
+29;Super Nerd
+2A;Silver [2]
+2B;Guitarist
+2C;Hiker
+2D;Biker
+2E;Leader [Blaine]
+2F;Burglar
+30;Firebreather
+31;Juggler
+32;Blackbelt
+33;Rocket [Male Executive]
+34;Psychic
+35;Picnicker
+36;Camper
+37;Rocket [Female Executive]
+38;Sage
+39;Medium
+3A;Boarder
+3B;Pokefan [Male]
+3C;Kimono Girl
+3D;Twins
+3E;Pokefan [Female]
+3F;PKMN Trainer [Red]
+40;Leader [Blue]
+41;Officer
+42;Rocket [Female Grunt]
+43;Mysticalman

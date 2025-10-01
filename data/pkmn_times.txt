@@ -1,0 +1,4 @@
+00;Morning
+01;Day
+02;Night
+04;Unlit cave

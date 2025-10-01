@@ -1,0 +1,96 @@
+01;New Bark Town
+02;Route 29
+03;Cherrygrove City
+04;Route 30
+05;Route 31
+06;Violet City
+07;Sprout Tower
+08;Route 32
+09;Ruins of Alph
+0A;Union Cave
+0B;Route 33
+0C;Azalea Town
+0D;Slowpoke Well
+0E;Ilex Forest
+0F;Route 34
+10;Goldenrod City
+11;Radio Tower
+12;Route 35
+13;National Park
+14;Route 36
+15;Route 37
+16;Ecruteak City
+17;Tin Tower
+18;Burned Tower
+19;Route 38
+1A;Route 39
+1B;Olivine City
+1C;Lighthouse
+1D;Battle Tower
+1E;Route 40
+1F;Whirl Islands
+20;Route 41
+21;Cianwood City
+22;Route 42
+23;Mt.Mortar
+24;Mahogany Town
+25;Route 43
+26;Lake of Rage
+27;Route 44
+28;Ice Path
+29;Blackthorn City
+2A;Dragon's Den
+2B;Route 45
+2C;Dark Cave
+2D;Route 46
+2E;Silver Cave
+2F;Pallet Town
+30;Route 1
+31;Viridian City
+32;Route 2
+33;Pewter City
+34;Route 3
+35;Mt.Moon
+36;Route 4
+37;Cerulean City
+38;Route 24
+39;Route 25
+3A;Route 5
+3B;Underground
+3C;Route 6
+3D;Vermilion City
+3E;Diglett's Cave
+3F;Route 7
+40;Route 8
+41;Route 9
+42;Rock Tunnel
+43;Route 10
+44;Power Plant
+45;Lavender Town
+46;Lav Radio Tower
+47;Celadon City
+48;Saffron City
+49;Route 11
+4A;Route 12
+4B;Route 13
+4C;Route 14
+4D;Route 15
+4E;Route 16
+4F;Route 17
+50;Route 18
+51;Fuchsia City
+52;Route 19
+53;Route 20
+54;Seafoam Islands
+55;Cinnabar Island
+56;Route 21
+57;Route 22
+58;Victory Road
+59;Route 23
+5A;Indigo Plateau
+5B;Route 26
+5C;Route 27
+5D;Tohjo Falls
+5E;Route 28
+5F;Fast Ship
+FF;Unknown Route

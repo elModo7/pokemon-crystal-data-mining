@@ -1,0 +1,103 @@
+00;Nothing
+01;Title screen
+02;Route 1
+03;Route 3
+04;Route 12
+05;Train Ride
+06;Kanto Gym Leader fight
+07;Kanto Trainer fight
+08;Kanto Wild Pokemon fight
+09;Pokemon Center
+0A;Look! Hiker
+0B;Look! Lass
+0C;Look! Officer
+0D;Heal Pokemon sound
+0E;Lavender Town
+0F;Route 2
+10;Mount Moon
+11;Show Me Around
+12;Game Corner
+13;Bicycle
+14;Hall of Fame
+15;Viridian City
+16;Celadon City
+17;Trainer Victory
+18;Wild Pokemon Victory
+19;Gym Leader Victory
+1A;Mount Moon Square
+1B;Gym
+1C;Pallet Town
+1D;Professor Oak's Pokemon Talk
+1E;Professor Oak
+1F;Rival
+20;After the Rival Fight
+21;Surfing
+22;Evolution
+23;National Park
+24;Credits
+25;Azalea Town
+26;Cherrygrove City
+27;Look! Kimono Girl
+28;Union Cave
+29;Johto Wild Pokemon
+2A;Johto Trainer Fight
+2B;Route 30
+2C;Ecruteak City
+2D;Violet City
+2E;Johto Gym Fight
+2F;Champion Fight
+30;Rival Fight
+31;Rocket Fight
+32;Elm's Lab
+33;Slowpoke Well
+34;Route 29
+35;Route 36
+36;S.S. Aqua
+37;Look! Youngster
+38;Look! Beauty
+39;Look! Rocket
+3A;Look! Pokemaniac
+3B;Look! Sage
+3C;New Bark Town
+3D;Goldenrod City
+3E;Vermilion City
+3F;Pokemon Channel!
+40;Poke Flute Channel
+41;Tin Tower
+42;Sprout Tower
+43;Burned Tower
+44;Lighthouse
+45;Lake of Rage
+46;Indigo Plateau
+47;Route 37
+48;Rocket Hideout
+49;Dragon's Den
+4A;Johto Wild Pokemon (nighttime)
+4B;Ruins of Alph radio signal
+4C;Successful Capture
+4D;Route 26
+4E;Mom
+4F;Victory Road
+50;Pokemon Lullaby
+51;Pokemon March
+52;Gold/Silver Opening
+53;Gold/Silver Opening (part 2)
+54;New Game or Continue?
+55;Ruins of Alph (inside)
+56;Rocket theme (overworld)
+57;Dancing Hall
+58;Counting the Points (Bug-Catching Contest)
+59;Bug-Catching Contest
+5A;Lake of Rage, Rocket's radio signal
+5B;Printer
+5C;Post-credits
+5D;Clair
+5E;[BETA]
+5F;Mobile Adapter
+60;Buena's Password
+61;Look! Mysticalman
+62;Crystal Opening (part 2)
+63;Battle Tower theme
+64;Wild Pokemon Battle (Raikou/Entei/Suicune)
+65;Battle Tower lobby
+66;BETA Pokemon Center

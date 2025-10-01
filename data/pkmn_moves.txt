@@ -1,0 +1,251 @@
+01;Pound
+02;Karate Chop
+03;Doubleslap
+04;Comet Punch
+05;Mega Punch
+06;Pay Day
+07;Fire Punch
+08;Ice Punch
+09;Thunderpunch
+0A;Scratch
+0B;Vicegrip
+0C;Guillotine
+0D;Razor Wind
+0E;Swords Dance
+0F;Cut
+10;Gust
+11;Wing Attack
+12;Whirlwind
+13;Fly
+14;Bind
+15;Slam
+16;Vine Whip
+17;Stomp
+18;Double Kick
+19;Mega Kick
+1A;Jump Kick
+1B;Rolling Kick
+1C;Sand-Attack
+1D;Headbutt
+1E;Horn Attack
+1F;Fury Attack
+20;Horn Drill
+21;Tackle
+22;Body Slam
+23;Wrap
+24;Take Down
+25;Thrash
+26;Double-Edge
+27;Tail Whip
+28;Poison Sting
+29;Twineedle
+2A;Pin Missile
+2B;Leer
+2C;Bite
+2D;Growl
+2E;Roar
+2F;Sing
+30;Supersonic
+31;Sonicboom
+32;Disable
+33;Acid
+34;Ember
+35;Flamethrower
+36;Mist
+37;Water Gun
+38;Hydro Pump
+39;Surf
+3A;Ice Beam
+3B;Blizzard
+3C;Psybeam
+3D;Bubblebeam
+3E;Aurora Beam
+3F;Hyper Beam
+40;Peck
+41;Drill Peck
+42;Submission
+43;Low Kick
+44;Counter
+45;Seismic Toss
+46;Strength
+47;Absorb
+48;Mega Drain
+49;Leech Seed
+4A;Growth
+4B;Razor Leaf
+4C;Solarbeam
+4D;Poisonpowder
+4E;Stun Spore
+4F;Sleep Powder
+50;Petal Dance
+51;String Shot
+52;Dragon Rage
+53;Fire Spin
+54;Thundershock
+55;Thunderbolt
+56;Thunder Wave
+57;Thunder
+58;Rock Throw
+59;Earthquake
+5A;Fissure
+5B;Dig
+5C;Toxic
+5D;Confusion
+5E;Psychic
+5F;Hypnosis
+60;Meditate
+61;Agility
+62;Quick Attack
+63;Rage
+64;Teleport
+65;Night Shade
+66;Mimic
+67;Screech
+68;Double Team
+69;Recover
+6A;Harden
+6B;Minimize
+6C;Smokescreen
+6D;Confuse Ray
+6E;Withdraw
+6F;Defense Curl
+70;Barrier
+71;Light Screen
+72;Haze
+73;Reflect
+74;Focus Energy
+75;Bide
+76;Metronome
+77;Mirror Move
+78;Selfdestruct
+79;Egg Bomb
+7A;Lick
+7B;Smog
+7C;Sludge
+7D;Bone Club
+7E;Fire Blast
+7F;Waterfall
+80;Clamp
+81;Swift
+82;Skull Bash
+83;Spike Cannon
+84;Constrict
+85;Amnesia
+86;Kinesis
+87;Softboiled
+88;Hi-Jump Kick
+89;Glare
+8A;Dream Eater
+8B;Poison Gas
+8C;Barrage
+8D;Leech Life
+8E;Lovely Kiss
+8F;Sky Attack
+90;Transform
+91;Bubble
+92;Dizzy Punch
+93;Spore
+94;Flash
+95;Psywave
+96;Splash
+97;Acid Armor
+98;Crabhammer
+99;Explosion
+9A;Fury Swipes
+9B;Bonemerang
+9C;Rest
+9D;Rock Slide
+9E;Hyper Fang
+9F;Sharpen
+A0;Conversion
+A1;Tri Attack
+A2;Super Fang
+A3;Slash
+A4;Substitute
+A5;Struggle
+A6;Sketch
+A7;Triple Kick
+A8;Thief
+A9;Spider Web
+AA;Mind Reader
+AB;Nightmare
+AC;Flame Wheel
+AD;Snore
+AE;Curse
+AF;Flail
+B0;Conversion2
+B1;Aeroblast
+B2;Cotton Spore
+B3;Reversal
+B4;Spite
+B5;Powder Snow
+B6;Protect
+B7;Mach Punch
+B8;Scary Face
+B9;Feint Attack
+BA;Sweet Kiss
+BB;Belly Drum
+BC;Sludge Bomb
+BD;Mud-Slap
+BE;Octazooka
+BF;Spikes
+C0;Zap Cannon
+C1;Foresight
+C2;Destiny Bond
+C3;Perish Song
+C4;Icy Wind
+C5;Detect
+C6;Bone Rush
+C7;Lock-On
+C8;Outrage
+C9;Sandstorm
+CA;Giga Drain
+CB;Endure
+CC;Charm
+CD;Rollout
+CE;False Swipe
+CF;Swagger
+D0;Milk Drink
+D1;Spark
+D2;Fury Cutter
+D3;Steel Wing
+D4;Mean Look
+D5;Attract
+D6;Sleep Talk
+D7;Heal Bell
+D8;Return
+D9;Present
+DA;Frustration
+DB;Safeguard
+DC;Pain Split
+DD;Sacred Fire
+DE;Magnitude
+DF;Dynamicpunch
+E0;Megahorn
+E1;Dragonbreath
+E2;Baton Pass
+E3;Encore
+E4;Pursuit
+E5;Rapid Spin
+E6;Sweet Scent
+E7;Iron Tail
+E8;Metal Claw
+E9;Vital Throw
+EA;Morning Sun
+EB;Synthesis
+EC;Moonlight
+ED;Hidden Power
+EE;Cross Chop
+EF;Twister
+F0;Rain Dance
+F1;Sunny Day
+F2;Crunch
+F3;Mirror Coat
+F4;Psych Up
+F5;Extremespeed
+F6;Ancientpower
+F7;Shadow Ball
+F8;Future Sight
+F9;Rock Smash
+FA;Whirlpool
+FB;Beat Up
