@@ -1,4 +1,4 @@
-# Pokémon Crystal Research Toolkit 0.3.6
+# Pokémon Crystal Research Toolkit
 [YouTube video showcase here](https://youtu.be/HL9EYusqOms)
 - Real-time map.
 - Real-time trainer card with key data.
