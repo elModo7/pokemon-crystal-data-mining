@@ -15,22 +15,126 @@ Here is a **video preview** of the tool working: [YouTube video showcase](https:
 - Real-time map.
 
 - Real-time trainer card with key data.
+  
+  - Money
+  
+  - Casino Coins
+  
+  - Trainer ID
+  
+  - Secret ID
+  
+  - Player Name
+  
+  - Current Map Name
+  
+  - Current BGM
+  
+  - Repel Steps
+  
+  - Badges
+  
+  - Time of Day
+  
+  - Playtime
+  
+  - Gender
 
-- Small overlay showing the current player's team.
+- Player Pokémon Team.
 
-- Small overlay showing the opponent's team.
+- Opponent's team.
+  
+  - Enemy Trainer Type
+  
+  - Enemy Pokémon Team
 
-- Daycare Egg viewer, steps & compatibility.
+- Daycare Manager
+  
+  - Egg readyness
+  
+  - Egg generation step counter
+  
+  - Breeding compatibility
+  
+  - Egg species
+  
+  - Egg shinyness (before hatching egg)
+  
+  - Egg stats (before hatching egg)
 
 - Player's active Pokémon stats window.
+  
+  - Exp
+  
+  - EVs
+  
+  - IVs
+  
+  - Attacks
+  
+  - Friendship
+  
+  - Status
+  
+  - Level
+  
+  - Species
+  
+  - Stats
+  
+  - Hidden Power (Type / Power)
+  
+  - Held Item
+  
+  - Shinyness
 
 - Enemy's active Pokémon or wild encounters stats.
+  
+  - Held Item
+  
+  - Catch Rate
+  
+  - Growth Rate
+  
+  - Encounter Type
+  
+  - Exp
+  
+  - EVs
+  
+  - IVs
+  
+  - Attacks
+  
+  - Friendship
+  
+  - Status
+  
+  - Level
+  
+  - Species
+  
+  - Stats
+  
+  - Base Stats
+  
+  - Hidden Power (Type / Power)
+  
+  - Base Exp
+  
+  - Shinyness
 
 - Pokédex completion progress overlay.
+  
+  - Unseen
+  
+  - Seen
+  
+  - Captured
+  
+  - Progression Ratio
 
-- Active Pokémon's moveset.
-
-
+- Active Pokémon's moveset (Per Level)
 
 ## Getting Started
 
@@ -43,8 +147,6 @@ Here is a **video preview** of the tool working: [YouTube video showcase](https:
    1. If you download from source you will need to download AutoHotkey v1, and compile "_Pokemon Crystal SRT.ahk_".
    
    2. Do **NOT rename** the files, it needs to be "*Pokemon Crystal SRT.exe*". 
-
-
 
 ## Emulator Support
 
@@ -61,8 +163,6 @@ Here is a **video preview** of the tool working: [YouTube video showcase](https:
 - VisualBoyAdvance-H
 
 - VisualBoyAdvance-rr
-  
-  
 
 ## How it works?
 
@@ -74,7 +174,21 @@ This toolkit consists of two main concepts.
   
   - A preset of addresses are queried twice every second.
 
-
-
 > [!IMPORTANT]  
 > This tool reads from memory, it won't open any network connection, but it may be flagged by some heuristic tools due to its nature.
+
+
+
+## More use cases
+
+I have made a few tools using this as a base (just ask for new repo uploads)
+
+- Discord shiny notifier
+
+- Automated shiny hunting bot (multiple emulator instances)
+
+- OBS Real-Time 3D Pokémon overlay (gif + websockets)
+
+- Pokémon Home Cloud (personal on-premise pokémon cloud storage system)
+
+- Multiplayer PoC
