@@ -8,55 +8,60 @@ It also works with **a few romhacks** that do not change the original data struc
 
 Here is a **video preview** of the tool working: [YouTube video showcase](https://youtu.be/HL9EYusqOms)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/293f043b-91d4-4bd3-8750-26617f5d8442" />
+
 ## Features
 
 - Real-time map.
-  
+
 - Real-time trainer card with key data.
-  
+
 - Small overlay showing the current player's team.
-  
+
 - Small overlay showing the opponent's team.
-  
+
 - Daycare Egg viewer, steps & compatibility.
-  
+
 - Player's active Pokémon stats window.
-  
+
 - Enemy's active Pokémon or wild encounters stats.
-  
+
 - Pokédex completion progress overlay.
-  
+
 - Active Pokémon's moveset.
-  
+
+
 
 ## Getting Started
 
 1. Download one of the compatible emulators.
-  
+
 2. Run your Pokémon Crystal rom in it.
-  
+
 3. Run Pokemon Crystal SRT.exe
-  
-  1. If you download from source you will need to download AutoHotkey v1, and compile it.
-    
-  2. Do **NOT rename** the files, it needs to be "*Pokemon Crystal SRT.exe*".
-    
+   
+   1. If you download from source you will need to download AutoHotkey v1, and compile it.
+   
+   2. Do **NOT rename** the files, it needs to be "*Pokemon Crystal SRT.exe*". 
+
+
 
 ## Emulator Support
 
 - mGBA 0.13
-  
+
 - BGB (64-Bit only)
-  
+
 - GSE
-  
+
 - Gambatte-Speedrun
-  
+
 - VisualBoyAdvance-Link
-  
+
 - VisualBoyAdvance-H
-  
+
 - VisualBoyAdvance-rr
+  
   
 
 ## How it works?
@@ -64,10 +69,12 @@ Here is a **video preview** of the tool working: [YouTube video showcase](https:
 This toolkit consists of two main concepts.
 
 - Frontend GUIs (each tool has its own window, data is fetched periodically)
-  
+
 - EmuHook-Core (traces emulator memory and communicates with UI)
   
   - A preset of addresses are queried twice every second.
+
+
 
 > [!IMPORTANT]  
 > This tool reads from memory, it won't open any network connection, but it may be flagged by some heuristic tools due to its nature.
