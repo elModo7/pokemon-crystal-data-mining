@@ -40,7 +40,7 @@ Here is a **video preview** of the tool working: [YouTube video showcase](https:
 
 3. Run Pokemon Crystal SRT.exe
    
-   1. If you download from source you will need to download AutoHotkey v1, and compile it.
+   1. If you download from source you will need to download AutoHotkey v1, and compile "_Pokemon Crystal SRT.ahk_".
    
    2. Do **NOT rename** the files, it needs to be "*Pokemon Crystal SRT.exe*". 
 
